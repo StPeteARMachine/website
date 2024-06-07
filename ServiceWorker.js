@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-armachineWebpages-1.0";
 const contentToCache = [
-    "Build/ALFA1.0.loader.js",
-    "Build/ALFA1.0.framework.js.unityweb",
-    "Build/ALFA1.0.data.unityweb",
-    "Build/ALFA1.0.wasm.unityweb",
+    "Build/cube1.loader.js",
+    "Build/cube1.framework.js.unityweb",
+    "Build/cube1.data.unityweb",
+    "Build/cube1.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
